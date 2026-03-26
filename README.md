@@ -1,16 +1,17 @@
-## Hi there 👋
+# Abdul Hadi
 
-<!--
-**Hadi-08/Hadi-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Undergraduate in Political Science with minors in Data Analytics and Criminology.
 
-Here are some ideas to get you started:
+Building toward a career in corporate risk, investigations, due diligence, and strategic consulting with a focus on East, Southeast and Northeast Asia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently building
+- SQL and R for data analysis applied to trade and financial datasets
+- OSINT methodology and geospatial analysis with QGIS
+- Mandarin (HSK pathway)
+
+## Technical stack
+- R · SQL · QGIS · Excel
+- Zotero · GitHub · Google Earth Pro
+
+## Interests
+Investigative due diligence · Transnational organised crime · Geopolitical risk · Financial crime · Open source intelligence
