@@ -14,4 +14,4 @@ Building toward a career in corporate risk, investigations, due diligence, and c
 - Zotero · GitHub · Google Earth Pro
 
 ## Interests
-Investigative due diligence · Political Risk · Geopolitical risk · Financial crime · Open source intelligence
+Investigative due diligence · Political & Geopolitical risk · Crisis Management · Open source intelligence
