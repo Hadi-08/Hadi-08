@@ -7,7 +7,7 @@ Building toward a career in corporate risk, investigations, due diligence, and c
 ## Currently building
 - SQL for investigative and compliance data workflows
 - OSINT methodology and geospatial analysis with QGIS
-- Mandarin (HSK pathway)
+- Korean (TOPIK pathway)
 
 ## Technical stack
 - SQL · QGIS · Excel
