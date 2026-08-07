@@ -10,8 +10,7 @@ Building toward a career in corporate risk, investigations, due diligence, and c
 - Korean (TOPIK pathway)
 
 ## Technical stack
-- SQL · QGIS · Excel
-- Zotero · GitHub · Google Earth Pro
+- SQL · QGIS Google · Earth Pro
 
 ## Interests
 Investigative due diligence · Political & Geopolitical risk · Crisis Management · Open source intelligence
